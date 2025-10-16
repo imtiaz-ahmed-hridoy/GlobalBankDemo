@@ -1,0 +1,67 @@
+{
+  "menu": [
+    {
+      "url": "/user_admin",
+      "name": "User Admin",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "slug": "user_admin",
+      "permission": "user"
+    },
+    {
+      "url": "/user_info",
+      "name": "User Profile",
+      "icon": "menu-icon tf-icons ti ti-id-badge",
+      "slug": "user_info",
+      "permission": "user"
+    },
+    {
+      "url": "/banklist",
+      "name": "Bank Transfer",
+      "icon": "menu-icon tf-icons ti ti-credit-card",
+      "slug": "banklist",
+      "permission": "user"
+    },
+    {
+      "url": "/cashout",
+      "name": "Cashout",
+      "icon": "menu-icon tf-icons ti ti-wallet",
+      "slug": "cashout",
+      "permission": "user"
+    },
+    {
+      "url": "/admin_dashboard",
+      "name": "Admin_dashboard",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "slug": "admin_dashboard",
+      "permission": "admin"
+    },
+    {
+      "url": "/admin_user_list",
+      "name": "Admin_user_list",
+      "icon": "menu-icon tf-icons ti ti-file-check",
+      "slug": "admin_user_list",
+      "permission": "admin"
+    },
+    {
+      "url": "/play_Game",
+      "name": "Play Game",
+      "icon": "menu-icon ti-icons ti ti-game",
+      "slug": "play_Game",
+      "permission": "user"
+    },
+    {
+      "url": "/send_transaction",
+      "name": "Send Transaction",
+      "icon": "menu-icon ti-icons ti ti-receipt",
+      "slug": "send_transaction",
+      "permission": "user"
+    }
+    ,{
+      "url": "/get_transaction",
+      "name": "Get Transaction",
+      "icon": "menu-icon ti-icons ti ti-receipt",
+      "slug": "get_transaction",
+      "permission": "admin"
+    }
+  ]
+}
