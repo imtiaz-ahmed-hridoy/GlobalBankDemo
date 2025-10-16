@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 # 🏦 GlobalBank
 
 ![Laravel](https://img.shields.io/badge/Laravel-9.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -10,6 +9,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vuexy](https://img.shields.io/badge/Vuexy-Premium-6366F1?style=for-the-badge&logo=vue.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-GreenSock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 **🚀 A sophisticated banking management system with integrated gaming features**
 
@@ -64,6 +64,7 @@ GlobalBank is a comprehensive banking management platform built with Laravel 9 a
 | Layer | Technology | Purpose |
 |-------|------------|---------|
 | **🎨 Frontend** | Vuexy Template + Bootstrap 5 | Premium UI/UX Experience |
+| **✨ Animations** | GSAP (GreenSock) | High-Performance Animations |
 | **⚙️ Backend** | Laravel 9 + PHP 8.2+ | Robust Application Logic |
 | **🗄️ Database** | MySQL 8.0 | Reliable Data Management |
 | **🔐 Security** | Spatie Permissions | Advanced Access Control |
@@ -149,6 +150,6 @@ docker-compose exec app php artisan migrate
 
 <div align="center">
 
-<sub>Built with ❤️ using Laravel & Vuexy • Making Banking Beautiful</sub>
+<sub>Built with ❤️ using Laravel, Vuexy & GSAP • Making Banking Beautiful</sub>
 
 </div>
