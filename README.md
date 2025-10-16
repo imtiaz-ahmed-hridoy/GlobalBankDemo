@@ -1,6 +1,4 @@
-<div align="center">
-# 🏦 GlobalBank
-</div>
+### 🏦 GlobalBank
 
 <div align="center">
 
